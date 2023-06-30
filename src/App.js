@@ -1,10 +1,5 @@
-
 function App() {
-  return (
-    <div className="App">
-      Hello react Quiz
-    </div>
-  );
+  return <div>Hello React quiz</div>;
 }
 
 export default App;
